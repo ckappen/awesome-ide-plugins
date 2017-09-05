@@ -1,15 +1,14 @@
 # Useful, awesome or funny IDE Plugins
 
-## Filetypes
-
-### Auth
+## Auth
 * [.htaccess](https://plugins.jetbrains.com/plugin/6834-apache-config--htaccess-support)
 
-### PHP
+## PHP
 
 * [Composer](https://plugins.jetbrains.com/plugin/7631-php-composer-json-support)
+* [PHP Unit Enhancement](https://github.com/Haehnchen/idea-php-phpunit-plugin)
 
-### Markdown
+## Markdown
 * [Markdown](https://plugins.jetbrains.com/plugin/7896-markdown-navigator)
 
 ## Author

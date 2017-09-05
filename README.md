@@ -16,7 +16,7 @@
 * [Nyan Progress Bar](https://plugins.jetbrains.com/plugin/8575-nyan-progress-bar)
 
 ## Filetypes
-* [.ignore](https://github.com/hsz/idea-gitignore)
+* [.ignore](https://plugins.jetbrains.com/plugin/7495--ignore)
 * [Bash Support](https://plugins.jetbrains.com/plugin/4230-bashsupport)
 
 # Author

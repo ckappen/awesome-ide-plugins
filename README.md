@@ -7,6 +7,7 @@
 
 * [Composer](https://plugins.jetbrains.com/plugin/7631-php-composer-json-support)
 * [PHP Unit Enhancement](https://github.com/Haehnchen/idea-php-phpunit-plugin)
+* [Symfony](https://plugins.jetbrains.com/plugin/7219-symfony-plugin)*
 
 ## Markdown
 * [Markdown](https://plugins.jetbrains.com/plugin/7896-markdown-navigator)

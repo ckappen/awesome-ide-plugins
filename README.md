@@ -14,6 +14,9 @@
 ## Funny
 * [Nyan Progress Bar](https://plugins.jetbrains.com/plugin/8575-nyan-progress-bar)
 
+## Filetypes
+* [.ignore](https://github.com/hsz/idea-gitignore)
+
 # Author
 
 [Christian Kappen](https://github.com/ckappen)

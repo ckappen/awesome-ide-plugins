@@ -11,6 +11,9 @@
 ## Markdown
 * [Markdown](https://plugins.jetbrains.com/plugin/7896-markdown-navigator)
 
-## Author
+## Funny
+* [Nyan Progress Bar](https://plugins.jetbrains.com/plugin/8575-nyan-progress-bar)
+
+# Author
 
 [Christian Kappen](https://github.com/ckappen)

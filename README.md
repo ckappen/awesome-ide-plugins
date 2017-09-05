@@ -17,6 +17,7 @@
 
 ## Filetypes
 * [.ignore](https://github.com/hsz/idea-gitignore)
+* [Bash Support](https://plugins.jetbrains.com/plugin/4230-bashsupport)
 
 # Author
 
